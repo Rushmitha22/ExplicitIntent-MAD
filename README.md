@@ -1,4 +1,4 @@
-<img width="1913" height="1035" alt="Screenshot 2026-11-02 090713" src="https://github.com/user-attachments/assets/c2a71409-3d2b-4ebc-8d2d-ca662174d556" /># EXPERIMENT 2B :To create a two screens , first screen will take one number input from user. After click on Factorial button, second screen will open and it should display factorial of the same number using Explicit Intents.
+# EXPERIMENT 2B :To create a two screens , first screen will take one number input from user. After click on Factorial button, second screen will open and it should display factorial of the same number using Explicit Intents.
 ## NAME : RUSHMITHA R
 ## REGISTRATION NUMBER : 212224040281
 
@@ -227,10 +227,11 @@ activity_main2.xml
 <img width="1913" height="1035" alt="Screenshot 2026-11-02 090713" src="https://github.com/user-attachments/assets/94b79903-4abf-4827-89ef-a7889d2073af" />
 
 <img width="1917" height="1083" alt="Screenshot 2026-11-02 091819" src="https://github.com/user-attachments/assets/2b60e275-62ca-4b65-ada7-3a85c8049122" />
-
-<img width="1917" height="987" alt="Screenshot 2026-11-02 092025" src="https://github.com/user-attachments/assets/2a9ea418-f765-4899-b56a-4204d109ac5e" />
 <img width="1917" height="1012" alt="Screenshot 2026-11-02 092006" src="https://github.com/user-attachments/assets/8e33c5ba-54cb-4a6c-b6b5-de1af6a4dc8c" />
 <img width="1913" height="1161" alt="Screenshot 2026-11-02 091905" src="https://github.com/user-attachments/assets/1fedd2d3-52ba-4f5a-81ee-53471a57d9a7" />
+
+
+<img width="1917" height="987" alt="Screenshot 2026-11-02 092025" src="https://github.com/user-attachments/assets/2a9ea418-f765-4899-b56a-4204d109ac5e" />
 
 
 
